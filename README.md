@@ -32,8 +32,15 @@ Borrow = A’B
  ![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/d76b099c-513f-4e7c-843a-e2fd028a531a)
 
 Figure -02 HALF Subtractor
-
+                            
 **Truthtable**
+1).HALF ADDER
+
+![Screenshot 2024-12-03 204651](https://github.com/user-attachments/assets/a256515f-a742-4094-b6b8-ce48b0cfcaa0)
+
+2).HALF SUBTRACTOR
+
+![Screenshot 2024-12-03 204706](https://github.com/user-attachments/assets/14ed46fb-b4d5-4757-9c31-3a0665072dd9)
 
 **Procedure**
 
@@ -56,6 +63,26 @@ Developed by: RegisterNumber:*/
 
 **RTL Schematic**
 
+1).HALF ADDER
+
+![Screenshot 2024-12-03 204719](https://github.com/user-attachments/assets/047d6af1-f3b6-463e-ba2d-e35a43f4e303)
+
+2).HALF SUBTRACTOR
+
+![Screenshot 2024-12-03 204733](https://github.com/user-attachments/assets/9314ac15-41db-40da-9a59-8d30ef5a7b8c)
+
+
 **Output/TIMING Waveform**
 
+1).HALF ADDER
+
+![Screenshot 2024-12-03 204802](https://github.com/user-attachments/assets/1144f941-c67c-48b5-9ac1-3eea527e9513)
+
+
+2).HALF SUBTRACTOR
+
+![Screenshot 2024-12-03 204821](https://github.com/user-attachments/assets/43ca6e00-5cf2-4ba2-ab08-770906d203f4)
+
 **Result:**
+Thus the half adder and the full subtractor circuit is desingned and verified its truth 
+table in Quartus using verilog programming.
